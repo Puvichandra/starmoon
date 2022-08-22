@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import LOGO from '../assets/logostar.png'
 
 const LogoText = styled.h1`
-font-family: 'Montserrat', cursive;
+font-family: 'Montserrat', sans-serif;
 font-size: ${props => props.theme.fontxxl};
 // color: ${props => props.theme.text};
 color: #ffd400;
