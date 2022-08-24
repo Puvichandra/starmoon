@@ -157,7 +157,7 @@ const Text = styled.span`
   }
 `;
 
-const RoadMapItem = ({ title, subtext1,subtext2,subtext3,addToRef }) => {
+const RoadMapItem = ({ title, subtext1,subtext2,subtext3,subtext4,addToRef }) => {
   return (
     <Item ref={addToRef}>
       <ItemContainer>
@@ -173,6 +173,8 @@ const RoadMapItem = ({ title, subtext1,subtext2,subtext3,addToRef }) => {
             <br></br>
             {subtext3}
             <br></br>
+            <br></br>
+            {subtext4}
          
             
             
@@ -235,7 +237,7 @@ const Roadmap = () => {
           <RoadMapItem
             addToRef={addToRefs}
             title="Phase 1"
-            subtext1="Visualise Star Moon"
+            subtext1="Visualize StarMoon"
             subtext2="Formation of a team"
             subtext3="Website launch "
    
@@ -256,7 +258,8 @@ const Roadmap = () => {
             title="Phase 3"
             subtext1="Launch on PancakeSwap"
             subtext2="Post launch marketing begins"
-            subtext3="CMC Application & listing"
+            subtext3="Big partnerships"
+            subtext4="CMC Application & listing"
             
           />
           <RoadMapItem
