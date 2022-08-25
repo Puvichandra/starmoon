@@ -25,7 +25,7 @@ const Title = styled.h2`
   }
 
   @media (max-width: 70em) {
-    font-size: ${(props) => props.theme.fontxl};
+    font-size: ${(props) => props.theme.fontlg};
 
   }
   @media (max-width: 48em) { 
@@ -99,7 +99,7 @@ const TypeWriterText = () => {
       />
       
     </Title>
-    <SubTitle>Bored Of Meme Tokens? Try Something New.</SubTitle>
+    <SubTitle>Bored Of Apes? Try Something New.</SubTitle>
     <ButtonContainer>
     <Button text="Buy Now" />
     </ButtonContainer>
