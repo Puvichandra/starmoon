@@ -99,7 +99,7 @@ const TypeWriterText = () => {
       />
       
     </Title>
-    <SubTitle>Bored Of Apes? Try Something New.</SubTitle>
+    <SubTitle>Bored Of Meme Tokens? Try Something New.</SubTitle>
     <ButtonContainer>
     <Button text="Buy Now" />
     </ButtonContainer>
