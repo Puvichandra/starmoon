@@ -101,12 +101,12 @@ const Faq = () => {
     <Container>
 
 <Box>
-  <Accordion ScrollTrigger={ScrollTrigger} title="BUY TAX 3%" >
-  Marketing 2%
-  <br></br>
-  <br></br>
+  <Accordion ScrollTrigger={ScrollTrigger} title="BUY TAX 0%" >
+  {/* Marketing 2% */}
+  {/* <br></br>
+  <br></br> */}
 
-  Liquidity 1%
+  {/* Liquidity 1% */}
   </Accordion>
   {/* <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE METAVERSE?" >
   A metaverse is a network of 3D virtual worlds focused on social connection. In futurism and science fiction, it is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.
@@ -117,12 +117,13 @@ const Faq = () => {
   </Accordion> */}
 </Box>
 <Box>
-<Accordion ScrollTrigger={ScrollTrigger} title="SELL TAX 3%" >
-Marketing 2%
-  <br></br>
-  <br></br>
+<Accordion ScrollTrigger={ScrollTrigger} title="SELL TAX 0%" >
+{/* Marketing 2% */}
+  {/* <br></br>
+  <br></br> */}
   
-  Liquidity 1%  </Accordion>
+  {/* Liquidity 1%  */}
+   </Accordion>
   {/* <Accordion ScrollTrigger={ScrollTrigger} title="WHAT ARE THE WEIRDOS?
 " >
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore deserunt consequatur quisquam maxime molestias dolores ipsum, exercitationem vel sint quidem aliquam modi quis impedit corporis unde inventore fugiat provident in.
