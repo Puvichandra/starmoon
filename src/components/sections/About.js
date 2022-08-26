@@ -169,7 +169,7 @@ const About = () => {
         <SubText>
         Star Moon the new generation earning protocol on the binance smart chain        </SubText>
         <SubTextLight>
-        Star Moon is a low tax token on the binance smart chain which aims to create an ecosystem around its revolutionary Shill to earn and Stake to earn platform        </SubTextLight>
+        Star Moon is a 0% tax token on the binance smart chain which aims to create an ecosystem around its revolutionary Stake to earn and Shill to earn platforms. </SubTextLight>
         <ButtonContainer>
         <ThemeProvider theme={dark}>
         <Button text="JOIN OUR COMMUNITY" link="https://t.me/StarMoonglobal" />
