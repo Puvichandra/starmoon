@@ -85,12 +85,12 @@ const Accordion = ({title, children, ScrollTrigger}) => {
                 <span>{title}</span>
             </Name>
             {
-                collapse ? 
-                <Indicator>
-                    <Minus />
-                </Indicator> : <Indicator>
-                    <Plus />
-                </Indicator>
+                // collapse ? 
+                // <Indicator>
+                //     <Minus />
+                // </Indicator> : <Indicator>
+                //     <Plus />
+                // </Indicator>
             }
         </Title>
         <Reveal clicked={collapse}>
