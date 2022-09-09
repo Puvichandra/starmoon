@@ -266,8 +266,9 @@ const Roadmap = () => {
             addToRef={addToRefs}
             title="Phase 4"
             subtext1="CG Application & listing"
-            subtext2="Stake to earn platform goes live"
-            subtext3="Community giveaways"
+            subtext2="NFT Launch"
+            subtext3="Stake to earn platform goes live"
+            subtext4="Community giveaways"
           />
           <RoadMapItem
             addToRef={addToRefs}
