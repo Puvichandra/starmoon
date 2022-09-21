@@ -23,9 +23,10 @@ import Home from "./components/sections/Home";
 import Roadmap from "./components/sections/Roadmap";
 import Team from "./components/sections/Team";
 import Footer from "./components/Footer";
-import Showcase from "./components/sections/Showcase";
+// import Showcase from "./components/sections/Showcase";
 import Faq from "./components/sections/Faq";
 import ScrollToTop from "./components/ScrollToTop";
+import Partners from "./components/sections/Partners";
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
         {/* <Suspense fallback={<Loading />}> */}
           <Navigation />
           <Home />
+          <Partners />
           <About />
           <Roadmap />
           {/* <Showcase /> */}
