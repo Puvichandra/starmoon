@@ -170,6 +170,7 @@ useLayoutEffect(() => {
       <Container >
         <MemberComponent img={img6}  name="LARRY" position="CEO" />
         <MemberComponent img={img5}  name="STEVEN" position="CMO" />
+        <MemberComponent img={img7}  name="RAMIRO" position="COO" />
         <MemberComponent img={img4}  name="OLIVIA" position="SOCIALS" />
         <MemberComponent img={img8}  name="JAMES" position="CM" />
         {/* <MemberComponent img={img5}  name="DEATHSTROKE" position="artist" />
