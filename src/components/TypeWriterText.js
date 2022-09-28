@@ -101,7 +101,7 @@ const TypeWriterText = () => {
     </Title>
     <SubTitle>Bored Of Meme Tokens? Try Something New.</SubTitle>
     <ButtonContainer>
-    <a href="https://gempad.app/presale/0x8b977f62960184F1f92A9a15deca9118e1A1B110?chainId=56">
+    <a href="https://www.pinksale.finance">
       <Button text="Presale" />
       </a>
     </ButtonContainer>
